@@ -1,0 +1,29 @@
+.btn-h1-spacing {
+    margin-top: 18px;
+}
+.form-spacing-top {
+    margin-top: 30px;
+}
+.author_image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    float: left;
+}
+.author_name {
+    float: left;
+    
+}
+.author_name h4 {
+    margin: 5px;
+    margin-left: 50px;
+
+}
+.comment-content {
+    clear:both;
+}
+.author_time {
+    font-size: 11px;
+    font-style: italic;
+    color: azure;
+}
